@@ -34,7 +34,7 @@
 2. API 功能開發
 3. 進階測試 (option)
 
-![1.drawio.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ca3566d-4d73-4482-89c7-1f7472317f45/7440832e-fda0-4071-b2cd-b430b163b168/1.drawio.png)
+![image](https://github.com/redteaman/LaravelDevelop/blob/main/%E6%96%87%E4%BB%B6/1.drawio.png)
 
 # 建立**測試通道**
 
